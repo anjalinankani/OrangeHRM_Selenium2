@@ -1,0 +1,11 @@
+c:\users\yoni.r\documents\visual studio 2015\Projects\OrangeHRMTest6\OrangeHRMTest6\bin\Debug\OrangeHRMTest6.exe.config
+D:\IT Npower\Testing\Project\manual_and_automation_testing_team_05\OrangeHRMTest6\OrangeHRMTest6\bin\Debug\OrangeHRMTest6.exe.config
+D:\IT Npower\Testing\Project\manual_and_automation_testing_team_05\OrangeHRMTest6\OrangeHRMTest6\bin\Debug\OrangeHRMTest6.exe
+D:\IT Npower\Testing\Project\manual_and_automation_testing_team_05\OrangeHRMTest6\OrangeHRMTest6\bin\Debug\OrangeHRMTest6.pdb
+D:\IT Npower\Testing\Project\manual_and_automation_testing_team_05\OrangeHRMTest6\OrangeHRMTest6\bin\Debug\WebDriver.dll
+D:\IT Npower\Testing\Project\manual_and_automation_testing_team_05\OrangeHRMTest6\OrangeHRMTest6\bin\Debug\WebDriver.Support.dll
+D:\IT Npower\Testing\Project\manual_and_automation_testing_team_05\OrangeHRMTest6\OrangeHRMTest6\bin\Debug\WebDriver.xml
+D:\IT Npower\Testing\Project\manual_and_automation_testing_team_05\OrangeHRMTest6\OrangeHRMTest6\bin\Debug\WebDriver.Support.xml
+D:\IT Npower\Testing\Project\manual_and_automation_testing_team_05\OrangeHRMTest6\OrangeHRMTest6\obj\Debug\OrangeHRMTest6.csprojResolveAssemblyReference.cache
+D:\IT Npower\Testing\Project\manual_and_automation_testing_team_05\OrangeHRMTest6\OrangeHRMTest6\obj\Debug\OrangeHRMTest6.exe
+D:\IT Npower\Testing\Project\manual_and_automation_testing_team_05\OrangeHRMTest6\OrangeHRMTest6\obj\Debug\OrangeHRMTest6.pdb
